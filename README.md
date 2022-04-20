@@ -41,6 +41,7 @@ a python library to manage your ZTE modem
 - lac_code
 - lan_ipaddr
 - lan_netmask
+- lan_station_list
 - loginfo
 - lte_pci
 - lte_rsrp
